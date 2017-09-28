@@ -180,7 +180,7 @@ Good Luck!
 
 Extra info:
 -----------
-This is a very big and complex code. Not the every-day script kiddie quality.
+This is a very big and complex code. Not the every-day skid quality.
 If you are making changes to it there are some things you should be aware of:
 
 String encryption is quite a simple encryption code found in main.cpp.
@@ -204,3 +204,4 @@ visual studio 2010
 putty.exe
 
 VPS Ubuntu 14.04 LTS (32bit)
+Thanks and Much Love ~ -0xret2plt
