@@ -205,3 +205,6 @@ putty.exe
 
 VPS Ubuntu 14.04 LTS (32bit)
 Thanks and Much Love ~ -0xret2plt
+
+ONE MORE NOTE:
+GetVersionExA is "deprecated" but apparently RtlGetVersionExA is "not"
