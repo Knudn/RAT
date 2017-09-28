@@ -13,17 +13,8 @@ In order to setup the control panel, you will need a linux VPS with root access.
 You only need to do this once.
 I recommend ubuntu as it is easier to get and install packages required to build the control panel.
 
-1. Download and extract the file you have onto the linux vps with the following commands:
-bzip2 -d p2-export.tar.bz2
-tar xvf p2-export.tar
-
-
-2. You will now have a folder named "p" and all client-side code in different folders.
-   First of all, please run the following command to remove client side codes:
-rm -Rf d
-rm -Rf o
-rm -Rf py1
-
+1.Download the Files
+2. Upload QT folder to the server
 
 2.2. You now have to install qtcreator before compiling, under ubuntu please issue the following command as root:
 apt-get install qtcreator
