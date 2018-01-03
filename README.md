@@ -1,7 +1,4 @@
-# RAT
-Rat coded in C++ and using QT
-Educational Purposes Only
-USAGE OF THIS PROGRAM's code, credit must be give
+TEST
 
 SETUP GUIDE
 ============
